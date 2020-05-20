@@ -1,0 +1,19 @@
+body{
+	background-color:#db6044;
+}
+.container{
+	padding: 80px 0 30px;
+}
+.tentang{
+	padding: 80px 20% 30px;
+}
+.tentang p{
+	font-size: 1.5rem;
+	font-style: italic;
+}
+.card-title{
+	font-family: 'Reem Kufi', sans-serif;
+}
+.card-text {
+	font-family: 'Imprima', sans-serif;
+}

@@ -1,0 +1,59 @@
+.navbar{
+  background-color: #ff5f3b;
+  
+}
+.navbar img{
+  width: 20%;
+  height: 35px;
+  border: 2px solid red;
+  border-radius: 20px;
+}
+.nav-item {
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+footer{
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  color: #c4b9b7;
+}
+.share {
+  background-color: white;
+}
+footer p{
+  padding-top: 5px;
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 10px 0;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #f734a3;
+  color: white;
+}

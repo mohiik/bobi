@@ -1,0 +1,34 @@
+
+#slideshow{
+	padding: 10% 15% 5%;
+	background-color: #9c4430;
+}
+#rekomendasi{
+	padding: 2% 0;
+	background-color:#db6044;
+}
+#rekomendasi img{
+	width: 85%;
+}
+hr{
+	border-bottom: 1px solid red;
+	width: 300px;
+	border-radius: 20px;
+}
+#berita {
+	background-color: #9c4430;
+	padding-bottom: 5%;
+}
+.card-img-top{
+	border-bottom: 2px solid black;
+}
+h2 {
+	font-family: 'Chewy', cursive;
+}
+.card h5{
+	font-family: 'Reem Kufi', sans-serif;
+}
+#rekomendasi h4{
+	padding-top: 10px;
+	font-family: 'Chicle', cursive;
+}
